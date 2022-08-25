@@ -1,4 +1,4 @@
-package haqnawaz.org.DBListView_A020;
+package haqnawaz.org.DBListView_A035;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -10,7 +10,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
-import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.Switch;
 import android.widget.TextView;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="haqnawaz.org.DBListView_A020">
+    package="haqnawaz.org.DBListView_A035">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.20220815DB">
-        <activity android:name="haqnawaz.org.DBListView_A020.MainActivity">
+        <activity android:name="haqnawaz.org.DBListView_A035.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
